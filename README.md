@@ -81,21 +81,32 @@ In addition, class serves as a form of support group. It is at these times that 
 
 ### Training
 
-In addition to rituals and classes, a variety of other training takes place in the form of exercises and tests. These serve as a way for the student to apply all of the information learned in class. The student will take place in pathworking journeys and other forms of guided meditation. She will take nature walks with the others and learn about local medicinal plants, and collect and prepare them later in a test. She will have to prepare a complete meal for her circle, made only from plants that she has collected from the wild. The student will take essay-based tests where she will have to relate many of the topics learned in class and through reading. She will have to perform some sort of community service to help others, in order to help further develop her sense of compassion and humanity, and to help her realize that she is not isolated from the mundane world. She must perform some sort of physical exercise throughout her training, because the training is for the body as well as the mind and sprit. She will have to perform service to Nature, be it by recycling, community gardening, or participating in Arbor Day. The student will often be asked to do periods of a self-discipline ritual -- often for a complete lunation -- in order to help her meditate on any particular struggles she may be having at the moment. These and other exercises and tests are given at various points in her training, to help develop practical experience to complement her scholarly study.
+In addition to rituals and classes, a variety of other training takes place in the form of exercises and tests. These serve as a way for the student to apply all of the information learned in class. 
 
-### Mysteries
+* The student will take place in pathworking journeys and other forms of guided meditation.
+* She will take nature walks with the others and learn about local medicinal plants, and collect and prepare them later in a test.
+* She will have to prepare a complete meal for her circle, made only from plants that she has collected from the wild.
+* The student will take essay-based tests where she will have to relate many of the topics learned in class and through reading.
+* She will have to perform some sort of community service to help others, in order to help further develop her sense of compassion and humanity, and to help her realize that she is not isolated from the mundane world.
+* She must perform some sort of physical exercise throughout her training, because the training is for the body as well as the mind and sprit.
+* She will have to perform service to Nature, be it by recycling, community gardening, or participating in Arbor Day.
+* The student will often be asked to do periods of a self-discipline ritual -- often for a complete lunation -- in order to help her meditate on any particular struggles she may be having at the moment.
+
+These and other exercises and tests are given at various points in her training, to help develop practical experience to complement her scholarly study.
+
+## Mysteries
 
 Faerie Faith is a mystical path. As such, it has its own mysteries connected to the Beth Luis Nion system, as well as mysteries of the Self that are part of any mystical path. As Penny and Michael Novack write in their short paper, "Mysteries and Secrets": "The truly frustrating thing about the mysteries is that they cannot be taught, they must be experienced." Further in the same paper, they write: Distressing to anyone who's grasped the most elementary of the "mysteries" is forever the fact that a mystery can't be told or even easily shown to someone, while a "secret" can be told to just about anyone and they can tell it to somebody else and it will be the same secret. And yet, there seem to be an amazing number of people who believe the two terms to be synonymous. Students often struggle with the fact that they aren't "getting" the mysteries. Yet the mysteries themselves come as a result of training and personal transformation. During intense meditation, a student will often have a mystical experience -- a grasping of the mystery at hand -- that will solidify all that she has learned intellectually.
 
-The Mysteries of Self
+### The Mysteries of Self
 
 The validity of mysticism is found in its many disparate paths. Qabalah, Sufism, Mystical Christianity, Yoga, Meditation, and the Beth Luis Nion system each come up with similar tales of certain mystical experiences. And at the same time, they each come up with mysteries that are unique to their own tradition.
 
 The Mysteries of Self are those mysteries that are found in all mystical experience. They often leave the student in a state of awe, joy, and confusion, as she grasps a new facet in her relationship to the cosmos.
 
-The most widely recognized mystery of Self is called "The Mystery of Union." In this experience, the student becomes one with the Divine. One of the first recordings of this experience that we have is found in the Enneads of Plotinus,
+The most widely recognized mystery of Self is called "The Mystery of Union." In this experience, the student becomes one with the Divine. One of the first recordings of this experience that we have is found in the Enneads of Plotinus: 
 
-    Roused into myself from my body -- outside everything else and inside myself -- my gaze has met a beauty wondrous and great. At such moments I have been certain that mine was the better part, mine the best of lives lived to the fullest, mine identity with the divine. Fixed there firmly, poised above everything in the intellectual that is less than the highest, utter actuality was mine. (O'Brien 62)
+"Roused into myself from my body -- outside everything else and inside myself -- my gaze has met a beauty wondrous and great. At such moments I have been certain that mine was the better part, mine the best of lives lived to the fullest, mine identity with the divine. Fixed there firmly, poised above everything in the intellectual that is less than the highest, utter actuality was mine." (O'Brien 62)
 
 Here, the student becomes one with the Divine, the One, the Universe, the Source, or God. She realizes just how small and insignificant she is, but at the same time how precious and unique her life is.
 
