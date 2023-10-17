@@ -120,22 +120,22 @@ The Lunar Mysteries are those mysteries that are connected with the trees of the
 
 ## Footnotes:
 * Adler, Margot. Drawing Down the Moon: Witches, Druids, Goddess-Worshippers, and Other Pagans in America Today, Revised and Expanded Edition. Arkana: Penguin, 1997.
-* Bombardi, Ron. "Spinoza's Ethics / Elwes Translation." Studia Spinoza. http://frank.mtsu.edu/~rbombard/RB/spinoza.new.html (1 Nov. 2001).
+* Bombardi, Ron. "Spinoza's Ethics / Elwes Translation." Studia Spinoza. [http://frank.mtsu.edu/~rbombard/RB/spinoza.new.html](https://web.archive.org/web/20011204181836/http://frank.mtsu.edu/~rbombard/RB/spinoza.new.html) (1 Nov. 2001).
 * Graves, Robert. The White Goddess: A Historical Grammar of Poetic Myth. New York: Farrar, Straus and Giroux, 1948.
 * Jones, Gwyn and Thomas, trans. The Mabinogion. New York: Alfred A. Knopf, Inc., 2000.
-* Kerr, Linda. "Lunar Tree Energies." Linda Kerr's Faerie Faith Page. 1999.http://www.auburn.edu/~kerrlin/tree_energies.html (1 Nov. 2001)
-* ---. "Studying the Faerie Faith." Linda Kerr's Faerie Faith Page. http://www.duc.auburn.edu/~kerrlin/studying.old.html (1 Nov. 2001).
-* ---. "What is the Faerie Faith?" Linda Kerr's Faerie Faith Page. 21 April 2000.http://www.auburn.edu/~kerrlin/WhatisFF.html (1 Nov. 2001).
-* "The McFarland Dianics-A Chronology." The McFarland Dianic Homepage. 2000.http://www.geocities.com/mcfdianic/chronol.html (1 Nov. 2001).
-* Novack, Penny and Michael. "Mysteries and Secrets." The McFarland Dianic Homepage. http://www.geocities.com/mcfdianic/mystsec.html (1 Nov. 2001).
+* Kerr, Linda. "Lunar Tree Energies." Linda Kerr's Faerie Faith Page. 1999. [http://www.auburn.edu/~kerrlin/tree_energies.html](https://web.archive.org/web/20011005141532/http://www.auburn.edu/~kerrlin/tree_energies.html) (1 Nov. 2001)
+* ---. "Studying the Faerie Faith." Linda Kerr's Faerie Faith Page. [http://www.duc.auburn.edu/~kerrlin/studying.old.html](https://web.archive.org/web/20020324113052/http://www.duc.auburn.edu/~kerrlin/studying.old.html) (1 Nov. 2001).
+* ---. "What is the Faerie Faith?" Linda Kerr's Faerie Faith Page. 21 April 2000. [http://www.auburn.edu/~kerrlin/WhatisFF.html](https://web.archive.org/web/20011221004254/http://www.auburn.edu/~kerrlin/WhatisFF.html) (1 Nov. 2001).
+* "The McFarland Dianics-A Chronology." The McFarland Dianic Homepage. 2000. [http://www.geocities.com/mcfdianic/chronol.html](https://web.archive.org/web/20011212163716/http://www.geocities.com/mcfdianic/chronol.html) (1 Nov. 2001).
+* Novack, Penny and Michael. "Mysteries and Secrets." The McFarland Dianic Homepage. [http://www.geocities.com/mcfdianic/mystsec.html](https://web.archive.org/web/20020215214414/http://www.geocities.com/mcfdianic/mystsec.html) (1 Nov. 2001).
 * O'Brien, Elmer. The Essential Plotinus. Second ed. Indianopolis, IN: Hackett Publishing Co., 1964
 * Paterson, Helena. The Celtic Lunar Zodiac. Boston: Charles E. Tuttle Co., 1992.
-* Rainey, ImrŽ K. "The History of the Faerie Faith." The Hazel Nut. 1998. http://home.earthlink.net/~irainey/history.html (1 Nov. 2001).
+* Rainey, Imré K. "The History of the Faerie Faith." The Hazel Nut. 1998. [http://home.earthlink.net/~irainey/history.html](https://web.archive.org/web/20011116113534/http://home.earthlink.net/~irainey/history.html) (1 Nov. 2001).
 * Regardie, Israel. Garden of Pomegranates. St. Paul, MN: Llewellyn, 1970.
 
 ## Web Resources
 
 * http://www.faeriefaith.net/ Linda Kerr's Faerie Faith Page.
-* http://draknetfree.com/clifflandis/ Cliff's Faerie Faith Page.
-* http://home.earthlink.net/~irainey/ The Hazel Nut.
-* http://www.geocities.com/mcfdianic/ The McFarland Dianic Homepage.
+* [http://draknetfree.com/clifflandis/](https://web.archive.org/web/20020604021409/http://draknetfree.com/clifflandis/) Cliff's Faerie Faith Page.
+* [http://home.earthlink.net/~irainey/](https://web.archive.org/web/20011213230753/http://home.earthlink.net/~irainey/) The Hazel Nut.
+* [http://www.geocities.com/mcfdianic/](https://web.archive.org/web/20020126231507/http://www.geocities.com/mcfdianic/) The McFarland Dianic Homepage.
