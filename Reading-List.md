@@ -6,7 +6,7 @@ Some of the books listed here are fairly heavy reading, and some may seem to hav
 
 Required readings are in **bold**
 
-## Psychology: The Self, Relationships, and Communication
+## Psychology: The Self
 * **Introduction to Internal Family Systems** -  Richard C. Schwartz - [print](https://www.worldcat.org/title/1311568585), [ebook](https://www.overdrive.com/media/9612884/introduction-to-internal-family-systems), [audiobook](https://www.audible.com/pd/Introduction-to-Internal-Family-Systems-Audiobook/B0BVJVGH55)
 * Self-Therapy -  Jay Earley - [print](https://www.worldcat.org/title/1333619520), [audiobook](https://www.audible.com/pd/Self-Therapy-2nd-Edition-Audiobook/B010G0PABM)
 * The Wisdom of the Enneagram - Don Richard Riso & Russ Hudson - [print](https://www.worldcat.org/title/40267484)
