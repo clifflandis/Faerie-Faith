@@ -63,13 +63,17 @@ As a relational example, one of my students was having trouble communicating wit
 
 The personal growth and transformation that a student experiences while training in the Faerie Faith is never limited to the student alone -- each student walks through life with a multitude of relationships, having profound influences on those around them.  An acknowledgement of these relationships is why there is a need for strong ethics and communication skills in Faerie Faith.  Learning to think from a systems perspective in advance gives the student the foresight to identify pitfalls, and the flexibility to handle missteps and impacts as they inevitably happen.
 
-## ...Warts and All
+## Warts and All
 Just so, it is with a systems perspective that we must look back at the historical content, context, and training methods of the Faerie Faith.  We must look back at our past, not to judge it harshly, but to understand our predecessor's behvior in context.  As the aphorism goes, "all behavior makes sense in context." If we don't understand the behavior, we're missing some context.
 
 It would be a grave error to look back at previous generations of Pagan practitioners and judge them by today's standards.  There's no need to dig up old letters and "cancel" people for making statements in the 1970s that are no longer considered polite or acceptable today. Instead, we should look at historical practices and statements in the context in which they happened.  At the same time, we should acknowledge that our own time is now, and that we may need to change some things in order to stay relevant and useful to those seeking to learn and practice the Faerie Faith. 
 
+An added benefit of viewing changing Pagan traditions from a systems perspective is the addition of grace and humility to the mix.  Students learn that when you're growing, all beginnings are humble -- whether that's the beginning of the journey as an individual student, or the collecive beginning that is the orgigin of a Pagan tradition.  This can help foster the patience and determination necessary to continue the challenging path of self-growth and transformation.
+
 ## Open Source-ing
-It is therefore my goal to "open source" my own Paganism -- to make much of the content that I write or compile freely available and transparent.  
+It is therefore my goal to "open source" my own Paganism -- to make much of the content that I write or compile freely available and transparent for others to use, adapt, and reuse.  Built off of the philosophies of the open source movement, several religious traditions have been "open sourced" and freely publishing their materials. However, I recognize that Faerie Faith is also an esoteric tradition and has secrets that I am not allowed to reveal -- therefore I must strike a careful balance between open source and closed source content as I continue this work.
+
+Joanna Fitzpatrick gave an excellent presnetation on Open Source Witchcraft at the ______, outlining the benefits and challenges of doing open source Pagansim and witchcraft. 
 
 ## Version-ing
 
