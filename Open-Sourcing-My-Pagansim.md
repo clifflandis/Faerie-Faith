@@ -1,4 +1,4 @@
-# Open Sourcing My Pagansim
+# Open Sourcing My Pagansim, by Cliff Landis
 
 In the middle of the night on ____ I was visited by a muse***.  The message I recieved from that muse was multilayered, but at its core the message was a command to "open source" (as a verb), my particular version of Paganism.  This informal personal essay is my attempt to do just that.
 
@@ -68,12 +68,16 @@ Just so, it is with a systems perspective that we must look back at the historic
 
 It would be a grave error to look back at previous generations of Pagan practitioners and judge them by today's standards.  There's no need to dig up old letters and "cancel" people for making statements in the 1970s that are no longer considered polite or acceptable today. Instead, we should look at historical practices and statements in the context in which they happened.  At the same time, we should acknowledge that our own time is now, and that we may need to change some things in order to stay relevant and useful to those seeking to learn and practice the Faerie Faith. 
 
-An added benefit of viewing changing Pagan traditions from a systems perspective is the addition of grace and humility to the mix.  Students learn that when you're growing, all beginnings are humble -- whether that's the beginning of the journey as an individual student, or the collecive beginning that is the orgigin of a Pagan tradition.  This can help foster the patience and determination necessary to continue the challenging path of self-growth and transformation.
+An added benefit of viewing changing Pagan traditions from a systems perspective is the addition of grace and humility to the mix.  Students learn that when you're growing, all beginnings are humble -- whether that's the beginning of the journey as an individual student, or the collecive beginning that is the orgigin of a Pagan tradition.  This can help foster the patience and determination necessary to continue the challenging path of self-growth and transformation.  It is also a helpful reminder that much of the "common sense" we have today will be judged very differently by future humans -- hopefully they will offer us the same grace we offer to our own ancestors.
 
 ## Open Source-ing
 It is therefore my goal to "open source" my own Paganism -- to make much of the content that I write or compile freely available and transparent for others to use, adapt, and reuse.  Built off of the philosophies of the open source movement, several religious traditions have been "open sourced" and freely publishing their materials. However, I recognize that Faerie Faith is also an esoteric tradition and has secrets that I am not allowed to reveal -- therefore I must strike a careful balance between open source and closed source content as I continue this work.
 
 Joanna Fitzpatrick gave an excellent presnetation on Open Source Witchcraft at the ______, outlining the benefits and challenges of doing open source Pagansim and witchcraft. 
+
+One consideration when "moving" a tradition from closed source to open source is the loss of control.  If I publish it freely, what if someone misuses it or causes harm?  Well, I cannot control the actions of others, and I believe that the benefits of transparency outweigh the benefits of control in this circumstance.  Besides, the readings and materials are helpers along the way, but they are not the path itself.  The path is in one's personal experience of the mysteries, which happen as part of the relationship one builds with oneself, one's coven sisters, and Nature Herself. Experience is, after all, the greatest teacher.
+
+One thing that I can not possibly open source is spiritual direction.  That is limited to the personal relationship developed in circle (coven work).
 
 ## Version-ing
 
