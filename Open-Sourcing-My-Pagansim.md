@@ -52,16 +52,24 @@ Having now been in IFS therapy for over two years, I was delighted to discover h
 
 As a result, I have replaced Huna with IFS in my own teaching of the Faerie Faith.  Yet how am I to honor Huna's historical role in Faerie Faith, and the positive impact of Huna on my own growth, while also acknowledging its problemmatic orgins and impact?  Read on.
 
-Similarly, I sought out alternative sources on Native American studies and shamanism, trying to find something that was both genuine and not harmful to the communities is came from.  Alas, most of what I found was more plastic medicine men and plastic shamanism.  So rather than endlessly searching   
+Similarly, I sought out alternative sources on Native American studies and shamanism, trying to find something that was both genuine and not harmful to the communities is came from.  Alas, most of what I found was more plastic medicine men and plastic shamans.  So rather than endlessly searching for something that isn't there, I will point students to content that looks not only at the historical practices of indigenous peoples, but also how those practices have been appropriated, stolen, and adapted by outsiders.  This will hopefully provide students with a broader perspective, so that they understand the implications and impact of proclaiming oneself to be practicing traditions from groups to which they don't belong (as I freely admit to doing in my own past, in a state of ignorance).
 
-## Warts and All
-A 
+## Seeing from Multiple Perspectives
+I also want to introduce systems thinking to Faerie Faith, both as a way to better understand the mysteries of our tradition, but also as a way to place our tradition's own past actions and choices in a non-judgmental historical context.
 
+Systems theory is the transdisciplary study of systems -- how many interrelated and interdependent parts can come together to create a whole that is more than the sum of its parts.  Systems are found everywhere, from our bodies (cells coming together to form tissues, tissues coming together to form organs, etc.), to our societies (individuals forming organizations, organizations forming coalitions, etc.), to Nature herself (quarks forming atoms, atoms forming molecules, etc.; plants and fungi forming forests, forests forming bioregions, etc.).  As we study systems, we learn how things change and stay the same, what forces (physical and social) can move a system in a particular direction, and how changing perspective can reveal hidden rules and patterns in our world.
 
+As a relational example, one of my students was having trouble communicating with his parents.  He felt like they didn't understand him, didn't trust him, perhaps didn't even like him. Over the course of a long conversation, I asked questions about their relationship from a place of openness and curiosity.  Gradually, I started expressing curiosity about what his parents might be thinking and feeling -- the student had a lot of guesses, but wasn't 100% sure.  Toward the end of the conversation, I asked if he felt grateful toward his parents for all that they had done to support his recent life changes, and he responded that he was.  I then proposed an experiment: expressing gratitude.  I wondered out loud how his parents would react if he told them that he was thankful for all that they had done.  He said that he would try it.  When he returned at the next training weekend, he reported that they were surprised by his expression of gratitude, but that it seemed to "break the ice" that had formed between them, allowing them to resume their more open communication.
 
+The personal growth and transformation that a student experiences while training in the Faerie Faith is never limited to the student alone -- each student walks through life with a multitude of relationships, having profound influences on those around them.  An acknowledgement of these relationships is why there is a need for strong ethics and communication skills in Faerie Faith.  Learning to think from a systems perspective in advance gives the student the foresight to identify pitfalls, and the flexibility to handle missteps and impacts as they inevitably happen.
+
+## ...Warts and All
+Just so, it is with a systems perspective that we must look back at the historical content, context, and training methods of the Faerie Faith.  We must look back at our past, not to judge it harshly, but to understand our predecessor's behvior in context.  As the aphorism goes, "all behavior makes sense in context." If we don't understand the behavior, we're missing some context.
+
+It would be a grave error to look back at previous generations of Pagan practitioners and judge them by today's standards.  There's no need to dig up old letters and "cancel" people for making statements in the 1970s that are no longer considered polite or acceptable today. Instead, we should look at historical practices and statements in the context in which they happened.  At the same time, we should acknowledge that our own time is now, and that we may need to change some things in order to stay relevant and useful to those seeking to learn and practice the Faerie Faith. 
 
 ## Open Source-ing
-
+It is therefore my goal to "open source" my own Paganism -- to make much of the content that I write or compile freely available and transparent.  
 
 ## Version-ing
 
