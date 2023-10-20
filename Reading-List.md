@@ -52,7 +52,9 @@ Required readings are in **bold**
 ## Neoshamanism
 * **Shamans and Religion: An Anthropological Exploration in Critical Thinking** - Alice Beck Kehoe - [print](https://www.worldcat.org/title/45740036)
 * Shamans/Neo-Shamans Ecstasies, Alternative Archaeologies and Contemporary Pagans - Robert J. Wallis - [print](https://www.worldcat.org/title/50333885), [ebook](https://www.worldcat.org/title/437080264)
-* Way of the Peaceful Warrior - Dan Millman - [print](https://www.worldcat.org/title/60662177)
+
+## Native American
+* Creek Indian Medicine Ways: The Enduring Power of Mvskoke Religion - David Lewis Jr. and Ann T. Jordan - [print](https://www.worldcat.org/title/248584953)
 
 ## Astronomy/Astrology
 * Moon Power - Mort Gale - [print](https://www.worldcat.org/title/6568569), [ebook](https://www.worldcat.org/title/1036784632)
@@ -75,6 +77,10 @@ Required readings are in **bold**
 * Water: The Element of Life - Theodore Schwanck - [print](https://www.worldcat.org/title/20013973)
 * The Book of Sacred Stones: Fact and Fallacy in the Crystal World - Barbara Walker - [print](https://www.worldcat.org/title/19322203)
 * The Psychic Power of Plants - John Whitman - [print](https://www.worldcat.org/title/1195677)
+
+## Systems Thinking
+* **Mind and Nature: A Necessary Unity** - Gregory Bateson - [print](https://www.worldcat.org/title/48501028)
+* Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology - Gregory Bateson - [print](https://www.worldcat.org/title/42295815)
 
 ## Fiction
 * **Stranger in a Strange Land** - Robert Heinlein (Religion) - [print](https://www.worldcat.org/title/191215188), [ebook](https://www.overdrive.com/media/204239/stranger-in-a-strange-land), [audiobook](https://www.overdrive.com/media/250418/stranger-in-a-strange-land)
