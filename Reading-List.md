@@ -79,7 +79,8 @@ Required readings are in **bold**
 * The Psychic Power of Plants - John Whitman - [print](https://www.worldcat.org/title/1195677)
 
 ## Systems Thinking
-* **Mind and Nature: A Necessary Unity** - Gregory Bateson - [print](https://www.worldcat.org/title/48501028)
+* **Completing Distinctions** - Douglas G. Felmons - [print](https://www.worldcat.org/title/21336914)
+* Mind and Nature: A Necessary Unity - Gregory Bateson - [print](https://www.worldcat.org/title/48501028)
 * Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology - Gregory Bateson - [print](https://www.worldcat.org/title/42295815)
 
 ## Fiction
