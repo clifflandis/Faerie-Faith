@@ -1,9 +1,9 @@
-# Open Sourcing My Pagansim, by Cliff Landis
+# Open Sourcing My Paganism, by Cliff Landis
 
-In the middle of the night on ____ I was visited by a muse***.  The message I recieved from that muse was multilayered, but at its core the message was a command to "open source" (as a verb), my particular version of Paganism.  This informal personal essay is my attempt to do just that.
+In the middle of the night on ____ I was visited by a muse[^muse].  The message I recieved from that muse was multilayered, but at its core the message was a command to "open source" (as a verb), my particular version of Paganism.  This informal personal essay is my attempt to do just that.
 
 ## My Background
-In fall of 1998, while a freshman at Auburn University, I met my future teacher, Linda Kerr.  After spending a couple of months asking to be trained in Linda's tradition, she relented and I began training as a neophyte in the Faerie Faith.  I continued to train over the next seven and a half years, culminating in my Fifth Solar degree as a High Priest of the Faerie Faith, with full authority to begin my own coven and to continue teaching the Faerie Faith tradition. 
+In fall of 1998, while a freshman at Auburn University, I met my future teacher, Linda Kerr.  After spending a couple of months asking to be trained in Linda's tradition, she relented and I began training as a neophyte in the Faerie Faith[^faeriefaith.net].  I continued to train over the next seven and a half years, culminating in my Fifth Solar degree as a High Priest of the Faerie Faith, with full authority to begin my own coven and to continue teaching the Faerie Faith tradition. 
 
 During the course of my training, I also met Pat, Linda's former teacher.  Pat (known to the community as Lady Epona), had taken the rituals and lessons of Faerie Faith that had been given to her by Mark Roberts, and delved deeper into their mysteries and the mysteries of the BLN Lunar Tree Calendar. She introduced new elements to the tradition (Bach flowers, an emphasis on ethics, an emphasis on personal growth and transformation, etc.) and had removed other elements she felt were no longer a fit (_______). Linda, too, added elements to her version of the Faerie Faith (the student's journey through the Lunar Tree Calendar cycle, _______) and removed others (Wiccan and feminist elements, ____).
 
@@ -80,16 +80,16 @@ One consideration when "moving" a tradition from closed source to open source is
 One thing that I can not possibly open source is spiritual direction.  That is limited to the personal relationship developed in circle (coven work).
 
 ## Version-ing
-
+Versioning, also known as version control, is an element of software development where changes to files are tracked over time.  
 
 
 ### Take Good Notes
 
 ### Show Your Work
 
-##  References
 
-Big Magic
+[^muse]:Gilbert E. (2009). [Your elusive creative genius.](https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius)
+[^faeriefaith.net]: Linda Kerr. [FaerieFaith.net](http://faeriefaith.net)
 
 Stealing My Religion
 
