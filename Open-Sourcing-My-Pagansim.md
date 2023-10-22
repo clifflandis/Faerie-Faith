@@ -5,7 +5,7 @@ In the middle of the night on 2023-08-10 I was visited by a muse[^muse].  The me
 ## My Background
 In fall of 1998, while a freshman at Auburn University, I met my future teacher, Linda Kerr.  After spending several months asking to be trained in Linda's tradition, she relented and I began training as a neophyte in the Faerie Faith[^faeriefaith.net].  I continued to train over the next seven and a half years, culminating in my Fifth Solar degree as a High Priest of the Faerie Faith, with full authority to begin my own coven and to continue teaching the Faerie Faith tradition.
 
-During the course of my training, I also met Pat Zook, Linda's former teacher[^pat-obit].  Pat (known to the community as Lady Epona), had taken the rituals and lessons of Faerie Faith that had been given to her by Mark Roberts[^mark-obit], and delved deeper into their mysteries and the mysteries of the BLN Lunar Tree Calendar. She introduced new elements to the tradition (Bach flowers, an emphasis on ethics, an emphasis on personal growth and transformation, etc.) and had removed other elements she felt were no longer a fit. Linda, too, added elements to her version of the Faerie Faith (the student's journey through the Lunar Tree Calendar cycle, five solar degrees instead of three, etc.) and removed others (Wiccan elements, feminist elements, etc.).
+During the course of my training, I also met Pat Zook, Linda's former teacher[^pat-obit].  Pat (known to the community as Lady Epona), had taken the rituals and lessons of Faerie Faith that had been given to her by Mark Roberts[^mark-obit], and delved deeper into their mysteries and the mysteries of the Beth Luis Nion Lunar Tree Calendar. She introduced new elements to the tradition (Bach flowers, an emphasis on ethics, an emphasis on personal growth and transformation, etc.) and had removed other elements she felt were no longer a fit. Linda, too, added elements to her version of the Faerie Faith (the student's journey through the Lunar Tree Calendar cycle, five solar degrees instead of three, etc.) and removed others (Wiccan elements, feminist elements, etc.).
 
 In the years that followed my Fifth Solar passage ritual, I trained several students, but none of them completed the training.  Meanwhile, Pat's health began to decline, and when she was close to entering hospice care, my family moved her in with us and we cared for her for the next three and a half years. During this time, Pat encouraged me to train several people she had talked to about Faerie Faith -- Pat was a charismatic character, and so I began training five students in a coven the students named The Book Club, two of whom would continue on with me following Pat's death.  
 
@@ -70,37 +70,56 @@ It would be a grave error to look back at previous generations of Pagan practiti
 
 An added benefit of viewing changing Pagan traditions from a systems perspective is the addition of grace and humility to the mix.  Students must learn that when you're growing, all beginnings are humble -- whether that's the individual's beginning of their journey as a student, or the collective beginning that is the origin of a Pagan tradition.  This can help foster the patience and determination necessary to continue the challenging path of self-growth and transformation.  It is also a helpful reminder that much of the "common sense" we have today will be judged very differently by future Pagans -- hopefully they will offer us the same grace we offer to our own ancestors.
 
-## Open Sourcing
+## Open Source
 So how can we do that?  How can we present a multidimensional, multi-faceted, systemic view of a Pagan tradition as it changes in real time?  My answer came to me in a dream: open source.
 
-The open source movement's principles have been applied to religions before.[^osr]  Importantly, ethics of openness, freedom, and transparency
+### Open Source Ethos
+The open source movement's values center around principles of open collaboration and transparency[^ossm].  This movement's ideas have informed additional movements around free access to code and cultural content, in the Free Software Movement and the Free Culture Movement.[^fsm][^fcm]  As a result, it was somewhat inevitable for religions to get onboard, and we now have a growing Open Source Religions movement. Pagansim is well-represented in the open source religions space, including Wicca and Discordianism.[^osr][^osw]  Notably, Discordianism is also a component of Faerie Faith training.
 
+So my own hope is to open up the source code of Faerie Faith (origins, readings, references, stories, citations, source material, etc.) and to develop additional practices (functionality) to the code.  I want to honor the source code given to me by my teachers, however this essay is my attempt at "refactoring the code"[^refactoring] to better suit my own needs and the needs of my potential students.
 
-### Organized Chaos
+This is both a shift in ethos and praxis -- an attitude toward my practice of my Paganism.  A personal value, but one that I hope will spread with my own practice of it.
+
+### Open Source Praxis
+The first thing I'm doing to implement this change, is to begin by writing this essay on GitHub, an open source software platform that includes version control.  This allows me to:
+* Take good notes, keeping the content of what I create/adapt gathered and organized in a single location;
+* Show my work, keeping an open record of how my thoughts on Faerie Faith grow and evolve, using version control.  If anyone is interested in seeing how this essay developed, they can look at the history of the document to see how it has changed over time; and
+* Give others the ability make their own copies of this repository (called "forking")[^fork], which will in turn allow them to reuse, adapt, and reshare the content to fit their own needs.
+
+One consideration when "moving" a tradition from closed source to open source is the loss of control.  What if I publish it freely, and someone misuses it or causes harm?  Well, I cannot control the actions of others, and I believe that the benefits of transparency outweigh the benefits of control in this circumstance.  Besides, the readings and materials are helpers along the way, but they are not the path itself.  The path is in one's personal experience of the mysteries, which happen as part of the relationship one builds with oneself, one's coven sisters, and Nature Herself. Experience is, after all, the greatest teacher.
+
+### Concerns and Limitations to Open Source Praxis
+There are, however, some limitations on what open source can (and should) do.  It is important for me not only to do the open sourcing of Faerie Faith, but to do it well -- in an ethical and sound manner.  Joanne Fitzpatrick gave an excellent presentation on Open Source Witchcraft at the 2022 Magickal Women Conference,[^mwc] outlining the benefits and challenges of doing open source witchcraft.[^fitzpatrick] She graciously spoke with me about the topic, so I gratefully acknowledge our conversation as an influence on my thoughts here.
+
+#### Secrets
+First, there must be a balance between openness/transparency and secretiveness/security.  A completely "closed source" religion would die out for a lack of new members -- at a minimum, other people need to have some kind of access point to know that your group exists in the first place.  On the other hand, a completely open religion could devolve into various infighting sub-groups creating poor quality outputs (rituals, graduated students, etc.), due to a complete lack of gatekeeping and quality assurance.
+
+I recognize that Faerie Faith is an esoteric tradition and has its own secrets that I am not allowed to reveal -- therefore I must strike a careful balance between which content I release as open source, and whihc content I keep secret.
+
+#### Experience
+
+#### Spiritual Direction
+
+One thing that I can not possibly open source is spiritual direction.  That is limited to the personal relationship developed in circle (coven work). I can give you a pile of books, but I can’t give you the weaving that connects them.
 
 ### Disorganized Religion
 
 ### Traditional Secrets
-Joanne Fitzpatrick gave a presentation on Open Source Witchcraft at the 2022 Magickal Women Conference,[^mwc] outlining the benefits and challenges of doing open source Paganism and witchcraft.[^fitzpatrick] She graciously spoke with me about the topic, so I gratefully acknowledge our conversation as an influence on my thoughts here.
 
-It is therefore my goal to "open source" my own Paganism -- to make much of the content that I write or compile freely available and transparent for others to use, adapt, and reuse.  Built off of the philosophies of the open source movement, several religious traditions have been "open sourced" and freely publishing their materials. However, I recognize that Faerie Faith is also an esoteric tradition and has secrets that I am not allowed to reveal -- therefore I must strike a careful balance between open source and closed source content as I continue this work.
-
-
-One consideration when "moving" a tradition from closed source to open source is the loss of control.  If I publish it freely, what if someone misuses it or causes harm?  Well, I cannot control the actions of others, and I believe that the benefits of transparency outweigh the benefits of control in this circumstance.  Besides, the readings and materials are helpers along the way, but they are not the path itself.  The path is in one's personal experience of the mysteries, which happen as part of the relationship one builds with oneself, one's coven sisters, and Nature Herself. Experience is, after all, the greatest teacher.
-
-One thing that I can not possibly open source is spiritual direction.  That is limited to the personal relationship developed in circle (coven work).
 
 ## Versioning
 However, it did raise a question -- how do we talk to potential students, and the world at large, about our history?  If our history faced the same challenges of misappropriation and misrepresentation as the history of Wicca and Gerald Gardner, how were we to grapple with and communicate that fact? Read on.
 
 And yet, I grappled with the fact that the content itself had been helpful enough to me during my own training, that I was hesitant to remove it wholesale.  How could I teach students a lie, especially one that harmed a living culture?  Read on.
 
-Versioning, also known as version control, is an element of software development where changes to files are tracked over time.  
+
+## Bringing it All Together
 
 
-### Take Good Notes
 
-### Show Your Work
+
+
+
 
 
 [^muse]:Elizabeth Gilbert (2009). [Your elusive creative genius.](https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius) Ted.com.
@@ -114,16 +133,17 @@ Versioning, also known as version control, is an element of software development
 [^lee]:​Pali Jae Lee (2007). Hoʻopono (2nd ed.). I.M. Pub. https://www.worldcat.org/title/166245642
 [^trans]:Gender and Transgender in Modern Paganism. (Cupertino, CA: Circle of Cerridwen Press, 2012). Open Source Alexandrian and Witches’ Order of the Golden Dawn Collections. MS/150/6. New Age Movements, Occultism, and Spiritualism Research Library. Archives and Special Collections. Valdosta State University. Valdosta, GA. https://hdl.handle.net/10428/3306
 [^reading-list]:Cliff Landis. [Reading List](Reading-List.md)
-[^osr]:Open-Source Religion. [Wikipedia](https://en.wikipedia.org/wiki/Open-source_religion)
 [^mwc]:Magickal Women Conference. (2022). https://web.archive.org/web/20230914125157/https://www.magickalwomenconference.com/speakers2022
 [^fitzpatrick]:Joanne Fitzpatrick. (2022-10-15). Principles of Open Source Witchcraft: emic perspectives on freedom of knowledge. Magickal Women Conference. https://zenodo.org/records/7220098
-
-
-
-
+[^ossm]:Open-source-software Movement. [Wikipedia](https://en.wikipedia.org/wiki/Open-source-software_movement)
+[^fsm]:Free Software Movement. [Wikipedia](https://en.wikipedia.org/wiki/Free_software_movement)
+[^fcm]:Free Culture Movement. [Wikipedia](https://en.wikipedia.org/wiki/Free-culture_movement)
+[^osr]:Open-Source Religion. [Wikipedia](https://en.wikipedia.org/wiki/Open-source_religion)
+[^osw]:Leo Ruickbie. (2007). Open Source Wicca: The Gardenarian Tradition. [Lulu.com](https://web.archive.org/web/20230814123133/https://www.lulu.com/shop/leo-ruickbie/open-source-wicca/paperback/product-1yyv549.html?page=1&pageSize=4)
+[^refactoring]:Code Refactoring. [Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+[^fork]:Fork (software development). [Wikipedia](https://en.wikipedia.org/wiki/Fork_(software_development))
 
 Stealing My Religion
 
-Taoism: https://education.nationalgeographic.org/resource/taoism/#:~:text=Taoism%20has%20been%20connected%20to,joins%20the%20universe%20after%20death.
 
 
