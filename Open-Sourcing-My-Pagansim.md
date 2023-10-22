@@ -75,11 +75,15 @@ So how can we do that?  How can we present a multidimensional, multi-faceted, sy
 
 The open source movement's principles have been applied to religions before.[^osr]  Importantly, ethics of openness, freedom, and transparency
 
+
+### Organized Chaos
+
+### Disorganized Religion
+
 ### Traditional Secrets
 Joanne Fitzpatrick gave a presentation on Open Source Witchcraft at the 2022 Magickal Women Conference,[^mwc] outlining the benefits and challenges of doing open source Paganism and witchcraft.[^fitzpatrick] She graciously spoke with me about the topic, so I gratefully acknowledge our conversation as an influence on my thoughts here.
 
 It is therefore my goal to "open source" my own Paganism -- to make much of the content that I write or compile freely available and transparent for others to use, adapt, and reuse.  Built off of the philosophies of the open source movement, several religious traditions have been "open sourced" and freely publishing their materials. However, I recognize that Faerie Faith is also an esoteric tradition and has secrets that I am not allowed to reveal -- therefore I must strike a careful balance between open source and closed source content as I continue this work.
-
 
 
 One consideration when "moving" a tradition from closed source to open source is the loss of control.  If I publish it freely, what if someone misuses it or causes harm?  Well, I cannot control the actions of others, and I believe that the benefits of transparency outweigh the benefits of control in this circumstance.  Besides, the readings and materials are helpers along the way, but they are not the path itself.  The path is in one's personal experience of the mysteries, which happen as part of the relationship one builds with oneself, one's coven sisters, and Nature Herself. Experience is, after all, the greatest teacher.
