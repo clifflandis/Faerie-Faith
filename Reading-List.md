@@ -49,6 +49,10 @@ Required readings are in **bold**
 ## Folk History/Holidays
 * The Silver Bough (4 volumes) - F. Marian McNeill - [print](https://www.worldcat.org/title/2509719)
 
+## Religion
+* **Principia Discordia** - Malaclypse the Younger - [print](https://www.worldcat.org/title/759797248)
+* The First and Last Freedom - Jiddu Krishnamurdi - [print](https://www.worldcat.org/title/1330025)
+
 ## Neoshamanism
 * **Shamans and Religion: An Anthropological Exploration in Critical Thinking** - Alice Beck Kehoe - [print](https://www.worldcat.org/title/45740036)
 * Shamans/Neo-Shamans Ecstasies, Alternative Archaeologies and Contemporary Pagans - Robert J. Wallis - [print](https://www.worldcat.org/title/50333885), [ebook](https://www.worldcat.org/title/437080264)
