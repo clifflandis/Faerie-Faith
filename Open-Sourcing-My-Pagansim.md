@@ -22,10 +22,19 @@ From the early twentieth century through the 1980s, the story of Paganism was do
 
 While this new information was a shock to those of us practicing Faerie Faith, it did not shake our foundations. After all, the tradition that Mark had given to Pat seemed somewhat different from the tradition that Linda had taught to me.  These new revelations also did nothing to discount the transformation, growth, and personal gnosis[^upg] that I had experienced as a student of the Faerie Faith.  
 
-However, it did raise a question -- how do we talk to potential students, and the world at large, about our history?  If our history faced the same challenges of misappropriation and misrepresentation as the history of Wicca and Gerald Gardner, how were we to grapple with and communicate that fact? Read on.
+However, it did raise a question -- how do we talk to potential students, and the world at large, about our history?  If our history faced the same challenges of misrepresentation as the history of Wicca and Gerald Gardner, how were we to grapple with and communicate that fact? Read on.
+
+### Inspiration and the Appeal to Tradition
+The comparison between Mark Roberts and Gerald Gardner is a valid one, and that same comparison can be extended to another notable figure in Faerie Faith: Robert Graves.  Graves wrote The White Goddess: A Historical Grammar of Poetic Myth, first published in 1948.  It was a study of mythology from a creative standpoint, and Graves' central thesis is that there was a pan-European cult to the White Goddess, a figure of birth, death, and rebirth -- and although contemporary scholars dismissed the book, it was treated as history by Goddess-worshipping Pagans in the 1950-1990s.  Most importantly for Faerie Faith, it was also the inspirational source for the Beth Luis Nion Lunar Tree Calendar that is central to much of our tradition's practices.
+
+During and after my training in the Faerie Faith, I continued to read broadly about the BLN Lunar Tree Calendar, and came across several sources that refuted the historical authenticity of Graves' work.[^ellis][^hutton][^carter]  I'll be honest -- reading these works shook me a little at first glance.  However, I pulled from my own memory of classes in logic and religious history from my undergraduate days, and recognized within myself the same logical fallacy -- the appeal to tradition -- that I had ocassionally refuted in more established religious traditions.  That's what makes it a fallacy: just because something is older or more established, doesn't mean that it's necessarily true or better.
+
+Instead, I began to frame my work in Faerie Faith around inspiration -- seeking for that which gives me breath (life) and builds creative energy within me.  Viewed from this more spiritually pragmatic vantage, I could see **all** of human culture as invented -- after all, some human had to tell the first story.  And as layers of story, history, culture, art, and religion built up over time, they cross-germinated and inspired new works of creativity. This is the framework that I operate in now -- not getting defensive over an invented past, but instead being inspired by my teacher, and my teacher's teacher, and so on, all the way back to the murky origins of Faerie Faith's mysteries.
+
+Although academic scholars and strict Pagan reconstructionists may take issue with the continued use of a Lunar Tree Calendar inspired by misreadings of Celtic literature, I find it more worrisome to use material that actively causes harm to living margainlized cultural groups.
 
 ### Appropriation
-Another challenge that I grappled with was content in the Faerie Faith readings that pulled from pseudo-indigenous teachings.
+Some of the content from the Faerie Faith readings that I grapplied with pulled from pseudo-indigenous teachings.
 
 For example, one of the first books I was instructed to read as a Faerie Faith student was "The Secret Science Behind Miracles" by Max Freedom Long.[^tssbm]  Huna, the system created by Long, was presented as a Hawaiian/Polynesian system of philosophy, psychology, and magic. A main element of Huna was a view of the human psyche being made of three parts: High Self, Middle Self, and Low Self -- this parts language was used heavily throughout my Faerie Faith training as a way to help talk about the process of personal transformation and growth.  When Long published the book in 1948, he was able to borrow content from the New Thought and Theosophical movements, misuse some Hawaiian words, lie about the origins of the content, and get a publisher to print it all.
 
@@ -157,6 +166,13 @@ And yet, I grappled with the fact that the content itself had been helpful enoug
 [^osw]:Leo Ruickbie. (2007). Open Source Wicca: The Gardenarian Tradition. [Lulu.com](https://web.archive.org/web/20230814123133/https://www.lulu.com/shop/leo-ruickbie/open-source-wicca/paperback/product-1yyv549.html?page=1&pageSize=4)
 [^refactoring]:Code Refactoring. [Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 [^fork]:Fork (software development). [Wikipedia](https://en.wikipedia.org/wiki/Fork_(software_development))
+[^carter]:Mark Carter. (2012). Stalking the Goddess. John Hunt Publishing. https://www.worldcat.org/title/845245769
+[^ellis]:Ellis, Peter Berresford. (1997). "The Fabrication of 'Celtic' Astrology". The Astrological Journal. Vol. 39, no. 4. https://web.archive.org/web/20230821161057/http://cura.free.fr/xv/13ellis2.html 
+[^hutton]:Ronald Hutton. (2021). The Triumph of the Moon: A History of Modern Pagan Witchcraft (New ed). Oxford University Press. https://www.worldcat.org/title/1222799256
+[^]:
+[^]:
+[^]:
+
 
 Stealing My Religion
 
