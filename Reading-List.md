@@ -14,7 +14,7 @@ Required readings are in **bold**
 * The Wisdom of the Enneagram - Don Richard Riso & Russ Hudson - [print](https://www.worldcat.org/title/40267484)
 
 ## Dowsing & Earth Energies
-* **Needles of Stone** - Tom Graves - [print](https://www.worldcat.org/title/5616588), [online](http://www.isleofavalon.co.uk/ndlstone.html)
+* **Needles of Stone** - Tom Graves - [print](https://www.worldcat.org/title/5616588), [website](http://www.isleofavalon.co.uk/ndlstone.html)
 * Spiritual Dowsing - Sig Lonegren - [print](https://www.worldcat.org/title/72098587)
 
 ## Nature Spirits
@@ -52,7 +52,7 @@ Required readings are in **bold**
 * The Silver Bough (4 volumes) - F. Marian McNeill - [print](https://www.worldcat.org/title/2509719)
 
 ## Religion
-* **Principia Discordia** - Malaclypse the Younger - [print](https://www.worldcat.org/title/759797248), [online](https://principiadiscordia.com/book/1.php)
+* **Principia Discordia** - Malaclypse the Younger - [print](https://www.worldcat.org/title/759797248), [website](https://principiadiscordia.com/book/1.php)
 * The First and Last Freedom - Jiddu Krishnamurdi - [print](https://www.worldcat.org/title/1330025)
 
 ## Neoshamanism
@@ -88,6 +88,7 @@ Required readings are in **bold**
 * **Completing Distinctions** - Douglas G. Felmons - [print](https://www.worldcat.org/title/21336914)
 * Mind and Nature: A Necessary Unity - Gregory Bateson - [print](https://www.worldcat.org/title/48501028)
 * Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology - Gregory Bateson - [print](https://www.worldcat.org/title/42295815)
+* On Divination and Synchronicity: The Psychology of Meaningful Chance - Marie-Luise von Franz - [print](https://www.worldcat.org/title/7556013)
 
 ## Fiction
 * **Stranger in a Strange Land** - Robert Heinlein (Religion) - [print](https://www.worldcat.org/title/191215188), [ebook](https://www.overdrive.com/media/204239/stranger-in-a-strange-land), [audiobook](https://www.overdrive.com/media/250418/stranger-in-a-strange-land)
