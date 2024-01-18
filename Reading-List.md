@@ -1,6 +1,8 @@
-# Faerie Faith Reading List
+# Cliff Landis' Faerie Faith Reading List
 
-Many of the books listed here are required reading for those on the path of the Faerie Faith. Even if you're not studying with us, you can still gain insights from the books below. We tend to focus heavily on psychology and mythology, while staying away from modern-day "pop" psychology, and recommend very few or no books on ritual, tarot, magick, or other standard Pagan or Wiccan books. 
+Many of the books listed here are required reading for those on the path of the Faerie Faith. Even if you're not studying with us, you can still gain insights from the books below. We tend to focus heavily on psychology and mythology, while staying away from modern-day "pop" psychology, and recommend very few or no books on ritual, tarot, magick, or other standard Pagan or Wiccan books.
+
+Reading books is a great foundation, but personal growth requires hands-on experience, preferably under the guidance of an ethical teacher.
 
 Some of the books listed here are fairly heavy reading, and some may seem to have absolutely nothing to do with studying the Craft. But they are all necessary to a well-rounded education. However, some of the books may be hard to find or out of print; many were written around the turn of the century. Good luck!
 
@@ -12,7 +14,7 @@ Required readings are in **bold**
 * The Wisdom of the Enneagram - Don Richard Riso & Russ Hudson - [print](https://www.worldcat.org/title/40267484)
 
 ## Dowsing & Earth Energies
-* **Needles of Stone** - Tom Graves - [print](https://www.worldcat.org/title/5616588)
+* **Needles of Stone** - Tom Graves - [print](https://www.worldcat.org/title/5616588), [online](http://www.isleofavalon.co.uk/ndlstone.html)
 * Spiritual Dowsing - Sig Lonegren - [print](https://www.worldcat.org/title/72098587)
 
 ## Nature Spirits
@@ -50,7 +52,7 @@ Required readings are in **bold**
 * The Silver Bough (4 volumes) - F. Marian McNeill - [print](https://www.worldcat.org/title/2509719)
 
 ## Religion
-* **Principia Discordia** - Malaclypse the Younger - [print](https://www.worldcat.org/title/759797248)
+* **Principia Discordia** - Malaclypse the Younger - [print](https://www.worldcat.org/title/759797248), [online](https://principiadiscordia.com/book/1.php)
 * The First and Last Freedom - Jiddu Krishnamurdi - [print](https://www.worldcat.org/title/1330025)
 
 ## Neoshamanism
